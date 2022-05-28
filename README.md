@@ -10,4 +10,5 @@ Usage<br>
 This is possible, since the spider is located in the root folder
 
 Alternatively, spider can be moved into the sreality//spiders folder, and stuff such as middlewares or proxies can be used<br>
-(scrapy crawl flats_data --logfile scrape.log -O results.json)
+* To run the spider
+  * scrapy crawl flats_data --logfile scrape.log -O results.json
