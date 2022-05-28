@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/flats.csv
+get_data/results.json
+get_data/results_flats.json
+jupyter/flats.csv
